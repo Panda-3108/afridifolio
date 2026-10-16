@@ -70,9 +70,9 @@ Add screenshots of your portfolio here to showcase its design and features.
 
 ## 📬 Connect With Me
 
-- **GitHub:** [Your GitHub Profile](https://github.com/YOUR-USERNAME)
-- **LinkedIn:** [Your LinkedIn Profile](YOUR-LINKEDIN-URL)
-- **Email:** YOUR-EMAIL
+- **GitHub:** (https://github.com/Panda-3108)
+- **LinkedIn:** (https://www.linkedin.com/in/af-afridi/)
+- **Email:** afridi0702@gmail.com
 
 ## ⭐ Support
 

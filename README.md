@@ -57,10 +57,6 @@ npm run dev
 
 Open the local URL displayed in your terminal to view the portfolio.
 
-## 📸 Screenshots
-
-Add screenshots of your portfolio here to showcase its design and features.
-
 ## 🎯 Goals
 
 - Improve my frontend development skills

@@ -8,7 +8,7 @@ This project showcases my skills, projects and experience in web development. My
 
 ## 🌐 Live Demo
 
-🔗 **Portfolio Website:** [Add Your Live Portfolio Link Here]
+🔗 **Portfolio Website:** [ https://panda-3108.github.io/afridifolio/]
 
 ## ✨ Features
 
